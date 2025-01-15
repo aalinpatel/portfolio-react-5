@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ap-portfolio-react/static/css/main.6d380cb7.css",
-    "main.js": "/ap-portfolio-react/static/js/main.ce21203a.js",
-    "static/media/Village_A.jpg": "/ap-portfolio-react/static/media/Village_A.32eec108594ba5a07a96.jpg",
-    "static/media/IMG_9437.jpg": "/ap-portfolio-react/static/media/IMG_9437.7b0def6b5ecb972ff6c0.jpg",
-    "static/media/AngularGrocery.png": "/ap-portfolio-react/static/media/AngularGrocery.dc8355cf0b75ba61cb1b.png",
-    "static/media/FullStack.png": "/ap-portfolio-react/static/media/FullStack.d7b4bcb9de22e39362d5.png",
-    "static/media/Games&AI.png": "/ap-portfolio-react/static/media/Games&AI.83e9e4b24ddbba2b0eb4.png",
-    "static/media/CourseManagementSystem.png": "/ap-portfolio-react/static/media/CourseManagementSystem.5cf0213af78ca1c600bb.png",
-    "static/media/MLCancerous.jpg": "/ap-portfolio-react/static/media/MLCancerous.ea35be2fbcd5597f68a1.jpg",
-    "static/media/PCAT++.png": "/ap-portfolio-react/static/media/PCAT++.56e541e682ba7f5034d4.png",
-    "index.html": "/ap-portfolio-react/index.html"
+    "main.css": "/portfolio-react-5/static/css/main.6d380cb7.css",
+    "main.js": "/portfolio-react-5/static/js/main.3bb4e029.js",
+    "static/media/Village_A.jpg": "/portfolio-react-5/static/media/Village_A.32eec108594ba5a07a96.jpg",
+    "static/media/IMG_9437.jpg": "/portfolio-react-5/static/media/IMG_9437.7b0def6b5ecb972ff6c0.jpg",
+    "static/media/AngularGrocery.png": "/portfolio-react-5/static/media/AngularGrocery.dc8355cf0b75ba61cb1b.png",
+    "static/media/FullStack.png": "/portfolio-react-5/static/media/FullStack.d7b4bcb9de22e39362d5.png",
+    "static/media/Games&AI.png": "/portfolio-react-5/static/media/Games&AI.83e9e4b24ddbba2b0eb4.png",
+    "static/media/CourseManagementSystem.png": "/portfolio-react-5/static/media/CourseManagementSystem.5cf0213af78ca1c600bb.png",
+    "static/media/MLCancerous.jpg": "/portfolio-react-5/static/media/MLCancerous.ea35be2fbcd5597f68a1.jpg",
+    "static/media/PCAT++.png": "/portfolio-react-5/static/media/PCAT++.56e541e682ba7f5034d4.png",
+    "index.html": "/portfolio-react-5/index.html"
   },
   "entrypoints": [
     "static/css/main.6d380cb7.css",
-    "static/js/main.ce21203a.js"
+    "static/js/main.3bb4e029.js"
   ]
 }
