@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-react-5/static/css/main.6d380cb7.css",
-    "main.js": "/portfolio-react-5/static/js/main.e413ef4c.js",
+    "main.js": "/portfolio-react-5/static/js/main.1ed35379.js",
     "static/media/Village_A.jpg": "/portfolio-react-5/static/media/Village_A.32eec108594ba5a07a96.jpg",
     "static/media/IMG_9437.jpg": "/portfolio-react-5/static/media/IMG_9437.7b0def6b5ecb972ff6c0.jpg",
     "static/media/AngularGrocery.png": "/portfolio-react-5/static/media/AngularGrocery.dc8355cf0b75ba61cb1b.png",
@@ -14,6 +14,6 @@
   },
   "entrypoints": [
     "static/css/main.6d380cb7.css",
-    "static/js/main.e413ef4c.js"
+    "static/js/main.1ed35379.js"
   ]
 }
