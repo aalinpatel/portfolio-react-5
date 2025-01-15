@@ -73,56 +73,56 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "Full Stack Web Application for E-Commerce Platform | ReactJS, Node.js, Express.js, and Cloud MySQL",
-        link: "/ecommerce-platform",
-    },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "Minecraft Procedural Village Generator | Python",
-        link: "/minecraft-generator",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "Online Veterinary Clinic Management System | Java & mySQL",
-        link: "/vetcare",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "AI-Enhanced Game Development with Steering Behaviors and Search Algorithms | C#, Unity",
-        link: "/ai-game-dev",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "University Course Enrolment System Prototype | Python",
-        link: "/course-enrolment",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "Cancer Cell Classification Using Machine Learning | Python",
-        link: "cancer-classification",
-    },
+    img: "https://picsum.photos/400/?grayscale",
+    description: "Full Stack Web Application for E-Commerce Platform | ReactJS, Node.js, Express.js, and Cloud MySQL",
+    link: "/portfolio-react-5/ecommerce-platform", 
+},
+{
+    img: "https://picsum.photos/400/800/?grayscale",
+    description: "Minecraft Procedural Village Generator | Python",
+    link: "/portfolio-react-5/minecraft-generator",  // Update path
+},
+{
+    img: "https://picsum.photos/400/?grayscale",
+    description: "Online Veterinary Clinic Management System | Java & mySQL",
+    link: "/portfolio-react-5/vetcare",  // Update path
+},
+{
+    img: "https://picsum.photos/400/600/?grayscale",
+    description: "AI-Enhanced Game Development with Steering Behaviors and Search Algorithms | C#, Unity",
+    link: "/portfolio-react-5/ai-game-dev",  // Update path
+},
+{
+    img: "https://picsum.photos/400/300/?grayscale",
+    description: "University Course Enrolment System Prototype | Python",
+    link: "/portfolio-react-5/course-enrolment",  // Update path
+},
+{
+    img: "https://picsum.photos/400/700/?grayscale",
+    description: "Cancer Cell Classification Using Machine Learning | Python",
+    link: "/portfolio-react-5/cancer-classification",  // Update path
+},
 
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "Program and Course Alignment Web Scrapping Tool (PCAT++) | Python, Flask",
-        link: "/pcat-tool",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "Closing the Gap – Social Challenge Web Application | Java",
-        link: "/closing-the-gap",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "Grocery Store Application | Typescript, Angular",
-        link: "/grocery-store",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: " Cloud-Based Music Subscription Application | AWS",
-        link: "/cloud-music-app",
-    }
+{
+    img: "https://picsum.photos/400/600/?grayscale",
+    description: "Program and Course Alignment Web Scrapping Tool (PCAT++) | Python, Flask",
+    link: "/portfolio-react-5/pcat-tool",  // Update path
+},
+{
+    img: "https://picsum.photos/400/300/?grayscale",
+    description: "Closing the Gap – Social Challenge Web Application | Java",
+    link: "/portfolio-react-5/closing-the-gap",  // Update path
+},
+{
+    img: "https://picsum.photos/400/?grayscale",
+    description: "Grocery Store Application | Typescript, Angular",
+    link: "/portfolio-react-5/grocery-store",  // Update path
+},
+{
+    img: "https://picsum.photos/400/?grayscale",
+    description: " Cloud-Based Music Subscription Application | AWS",
+    link: "/portfolio-react-5/cloud-music-app",  // Update path
+}
 ];
 
 const contactConfig = {
