@@ -1,6 +1,8 @@
 import React from "react";
 import "./project-details.css"; // Use the same CSS for styling
 
+import { Link } from "react-router-dom";
+
 const VetCare = () => {
   return (
     <div className="project-detail">
@@ -42,9 +44,9 @@ const VetCare = () => {
           Utilised GitHub Projects for task management and collaboration, ensuring regular and meaningful contributions from all team members.
         </li>
       </ul>
-      <a href="/portfolio" className="back-link">
-        Back to Portfolio
-      </a>
+      <Link to="/portfolio" className="back-to-portfolio-link">
+          Back to Portfolio
+      </Link>
     </div>
   );
 };

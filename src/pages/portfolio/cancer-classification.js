@@ -1,6 +1,7 @@
 import React from "react";
 import "./project-details.css"; // Import the shared CSS file
 import CancerImage from "../../assets/images/MLCancerous.jpg"; // Replace with your image path
+import { Link } from "react-router-dom";
 
 const CancerClassification = () => {
   return (
@@ -54,9 +55,9 @@ const CancerClassification = () => {
         <h2>Project Image</h2>
         <img src={CancerImage} alt="Cancer Cell Classification Using Machine Learning" />
       </div>
-      <a href="/portfolio" className="back-link">
-        Back to Portfolio
-      </a>
+      <Link to="/portfolio" className="back-to-portfolio-link">
+          Back to Portfolio
+      </Link>
     </div>
   );
 };

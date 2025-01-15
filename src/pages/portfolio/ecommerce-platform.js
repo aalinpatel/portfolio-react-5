@@ -1,6 +1,7 @@
 import React from "react";
 import "./project-details.css"; // Import the CSS
 import FullStack from "../../assets/images/FullStack.png";
+import { Link } from "react-router-dom";
 
 
 const EcommercePlatform = () => {
@@ -33,9 +34,9 @@ const EcommercePlatform = () => {
           alt="Full-Stack E-Commerce Platform"
         />
       </div>
-      <a href="/portfolio" className="back-link">
-        Back to Portfolio
-      </a>
+        <Link to="/portfolio" className="back-to-portfolio-link">
+          Back to Portfolio
+      </Link>
     </div>
   );
 };

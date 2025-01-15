@@ -1,6 +1,7 @@
 import React from "react";
 import "./project-details.css"; // Import the shared CSS file
 import GameImage from "../../assets/images/Games&AI.png"; // Replace with the actual path to your image
+import { Link } from "react-router-dom";
 
 const AIGameDev = () => {
   return (
@@ -68,9 +69,9 @@ const AIGameDev = () => {
         <h2>Project Image</h2>
         <img src={GameImage} alt="AI-Enhanced Game Development" />
       </div>
-      <a href="/portfolio" className="back-link">
-        Back to Portfolio
-      </a>
+      <Link to="/portfolio" className="back-to-portfolio-link">
+          Back to Portfolio
+      </Link>
     </div>
   );
 };

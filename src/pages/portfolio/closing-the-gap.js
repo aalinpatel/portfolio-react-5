@@ -1,6 +1,6 @@
 import React from "react";
 import "./project-details.css"; // Import shared CSS
-
+import { Link } from "react-router-dom";
 const ClosingTheGap = () => {
   return (
     <div className="project-detail">
@@ -32,9 +32,9 @@ const ClosingTheGap = () => {
         <li>Backend: Java, SQLite with JDBC</li>
         <li>Tools: GitHub, MS Teams</li>
       </ul>
-      <a href="/portfolio" className="back-link">
-        Back to Portfolio
-      </a>
+      <Link to="/portfolio" className="back-to-portfolio-link">
+          Back to Portfolio
+      </Link>
     </div>
   );
 };

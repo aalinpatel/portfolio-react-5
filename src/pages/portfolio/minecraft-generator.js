@@ -1,6 +1,7 @@
 import React from "react";
 import "./project-details.css"; // Ensure this CSS file matches the theme
 import MinecraftVillageImage from "../../assets/images/Village_A.jpg"; // Replace with your actual image
+import { Link } from "react-router-dom";
 
 const MinecraftGenerator = () => {
   return (
@@ -40,9 +41,9 @@ const MinecraftGenerator = () => {
           alt="Minecraft Procedural Village Generator"
         />
       </div>
-      <a href="/portfolio" className="back-link">
-        Back to Portfolio
-      </a>
+      <Link to="/portfolio" className="back-to-portfolio-link">
+          Back to Portfolio
+      </Link>
     </div>
   );
 };

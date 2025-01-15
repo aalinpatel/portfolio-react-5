@@ -35,9 +35,10 @@ const PCATTool = () => {
         <h2>Project Image</h2>
         <img src={PCATImage} alt="Program and Course Alignment Tool" />
       </div>
-      <a href="/portfolio" className="back-link">
-        Back to Portfolio
-      </a>
+      <Link to="/portfolio" className="back-to-portfolio-link">
+          Back to Portfolio
+      </Link>
+      
     </div>
   );
 };

@@ -75,53 +75,53 @@ const services = [{
 const dataportfolio = [{
     img: "https://picsum.photos/400/?grayscale",
     description: "Full Stack Web Application for E-Commerce Platform | ReactJS, Node.js, Express.js, and Cloud MySQL",
-    link: "/portfolio-react-5/ecommerce-platform", 
+    link: "/ecommerce-platform", 
 },
 {
     img: "https://picsum.photos/400/800/?grayscale",
     description: "Minecraft Procedural Village Generator | Python",
-    link: "/portfolio-react-5/minecraft-generator",  // Update path
+    link: "/minecraft-generator",  // Update path
 },
 {
     img: "https://picsum.photos/400/?grayscale",
     description: "Online Veterinary Clinic Management System | Java & mySQL",
-    link: "/portfolio-react-5/vetcare",  // Update path
+    link: "/vetcare",  // Update path
 },
 {
     img: "https://picsum.photos/400/600/?grayscale",
     description: "AI-Enhanced Game Development with Steering Behaviors and Search Algorithms | C#, Unity",
-    link: "/portfolio-react-5/ai-game-dev",  // Update path
+    link: "/ai-game-dev",  // Update path
 },
 {
     img: "https://picsum.photos/400/300/?grayscale",
     description: "University Course Enrolment System Prototype | Python",
-    link: "/portfolio-react-5/course-enrolment",  // Update path
+    link: "/course-enrolment",  // Update path
 },
 {
     img: "https://picsum.photos/400/700/?grayscale",
     description: "Cancer Cell Classification Using Machine Learning | Python",
-    link: "/portfolio-react-5/cancer-classification",  // Update path
+    link: "/cancer-classification",  // Update path
 },
 
 {
     img: "https://picsum.photos/400/600/?grayscale",
     description: "Program and Course Alignment Web Scrapping Tool (PCAT++) | Python, Flask",
-    link: "/portfolio-react-5/pcat-tool",  // Update path
+    link: "/pcat-tool",  // Update path
 },
 {
     img: "https://picsum.photos/400/300/?grayscale",
     description: "Closing the Gap – Social Challenge Web Application | Java",
-    link: "/portfolio-react-5/closing-the-gap",  // Update path
+    link: "/closing-the-gap",  // Update path
 },
 {
     img: "https://picsum.photos/400/?grayscale",
     description: "Grocery Store Application | Typescript, Angular",
-    link: "/portfolio-react-5/grocery-store",  // Update path
+    link: "/grocery-store",  // Update path
 },
 {
     img: "https://picsum.photos/400/?grayscale",
     description: " Cloud-Based Music Subscription Application | AWS",
-    link: "/portfolio-react-5/cloud-music-app",  // Update path
+    link: "/cloud-music-app",  // Update path
 }
 ];
 
@@ -132,12 +132,12 @@ const contactConfig = {
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_en7yvek",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_TEMPLATE_ID: "template_6p9xn4c",
+    YOUR_USER_ID: "y6x9OfmRUz-JrMBaJ",
 };
 
 const socialprofils = {
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/aalin-patel-5301972b8/",
 };
 export {
     meta,

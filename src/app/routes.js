@@ -37,16 +37,16 @@ const AnimatedRoutes = withRouter(({ location }) => (
         <Route path="/contact" element={<ContactUs />} />
         
         <Route path="/portfolio-react-5/" element={<Home />} />
-    <Route path="/portfolio-react-5/ecommerce-platform" element={<EcommercePlatform />} />
-    <Route path="/portfolio-react-5/minecraft-generator" element={<MinecraftGenerator />} />
-    <Route path="/portfolio-react-5/vetcare" element={<VetCare />} />
-    <Route path="/portfolio-react-5/ai-game-dev" element={<AIGameDev />} />
-    <Route path="/portfolio-react-5/course-enrolment" element={<CourseEnrolment />} />
-    <Route path="/portfolio-react-5/cancer-classification" element={<CancerClassification />} />
-    <Route path="/portfolio-react-5/pcat-tool" element={<PCATTool />} />
-    <Route path="/portfolio-react-5/closing-the-gap" element={<ClosingTheGap />} />
-    <Route path="/portfolio-react-5/grocery-store" element={<GroceryStoreApp />} />
-    <Route path="/portfolio-react-5/cloud-music-app" element={<CloudMusicApp />} />
+    <Route path="/ecommerce-platform" element={<EcommercePlatform />} />
+    <Route path="/minecraft-generator" element={<MinecraftGenerator />} />
+    <Route path="/vetcare" element={<VetCare />} />
+    <Route path="/ai-game-dev" element={<AIGameDev />} />
+    <Route path="/course-enrolment" element={<CourseEnrolment />} />
+    <Route path="/cancer-classification" element={<CancerClassification />} />
+    <Route path="/pcat-tool" element={<PCATTool />} />
+    <Route path="/closing-the-gap" element={<ClosingTheGap />} />
+    <Route path="/grocery-store" element={<GroceryStoreApp />} />
+    <Route path="/cloud-music-app" element={<CloudMusicApp />} />
 
       </Routes>
     </CSSTransition>

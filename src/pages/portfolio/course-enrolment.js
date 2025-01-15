@@ -1,6 +1,7 @@
 import React from "react";
 import "./project-details.css"; // Import the shared CSS file
 import CourseEnrolmentImage from "../../assets/images/CourseManagementSystem.png"; // Replace with your image path
+import { Link } from "react-router-dom";
 
 const CourseEnrolment = () => {
   return (
@@ -69,9 +70,9 @@ const CourseEnrolment = () => {
         <h2>Project Image</h2>
         <img src={CourseEnrolmentImage} alt="University Course Enrolment System" />
       </div>
-      <a href="/portfolio" className="back-link">
-        Back to Portfolio
-      </a>
+      <Link to="/portfolio" className="back-to-portfolio-link">
+          Back to Portfolio
+      </Link>
     </div>
   );
 };

@@ -1,6 +1,7 @@
 import React from "react";
 import "./project-details.css"; // Import shared CSS
 import GroceryAppImage from "../../assets/images/AngularGrocery.png"; // Replace with your actual image path
+import { Link } from "react-router-dom";
 
 const GroceryStoreApp = () => {
   return (
@@ -41,9 +42,13 @@ const GroceryStoreApp = () => {
         <h2>Project Image</h2>
         <img src={GroceryAppImage} alt="Grocery Store Application" />
       </div>
-      <a href="/portfolio" className="back-link">
-        Back to Portfolio
-      </a>
+      <Link to="/portfolio" className="back-to-portfolio-link">
+          Back to Portfolio
+      </Link>
+      
+      
+
+      
     </div>
   );
 };

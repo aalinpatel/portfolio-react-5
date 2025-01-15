@@ -1,5 +1,6 @@
 import React from "react";
 import "./project-details.css"; // Import the CSS
+import { Link } from "react-router-dom";
 
 const CloudMusicApp = () => {
   return (
@@ -46,9 +47,9 @@ const CloudMusicApp = () => {
         dynamic music subscription management, and real-time query handling. The project
         emphasizes scalable cloud architecture, automation, and user-centric design.
       </p>
-      <a href="/portfolio" className="back-link">
-        Back to Portfolio
-      </a>
+      <Link to="/portfolio" className="back-to-portfolio-link">
+          Back to Portfolio
+      </Link>
     </div>
   );
 };
